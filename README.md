@@ -26,13 +26,13 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2023/3/27 5:25 PM UTC
+			2023/3/28 12:00 AM UTC
 		</td>
 		<td>
-			4
+			5
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/jpcc0/view-counter/raw/master/graph/586579586/small/year.png" height="20"> 21
+			<img alt="Response time graph" src="https://github.com/jpcc0/view-counter/raw/master/graph/586579586/small/year.png" height="20"> 22
 		</td>
 	</tr>
 	<tr>
@@ -42,13 +42,13 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2023/3/27 12:00 AM UTC
+			2023/3/28 12:00 AM UTC
 		</td>
 		<td>
-			88
+			97
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/jpcc0/view-counter/raw/master/graph/575975175/small/year.png" height="20"> 367
+			<img alt="Response time graph" src="https://github.com/jpcc0/view-counter/raw/master/graph/575975175/small/year.png" height="20"> 418
 		</td>
 	</tr>
 	<tr>
@@ -58,13 +58,13 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2023/3/27 5:25 PM UTC
+			2023/3/28 12:00 AM UTC
 		</td>
 		<td>
-			3
+			4
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/jpcc0/view-counter/raw/master/graph/587817786/small/year.png" height="20"> 8
+			<img alt="Response time graph" src="https://github.com/jpcc0/view-counter/raw/master/graph/587817786/small/year.png" height="20"> 11
 		</td>
 	</tr>
 	<tr>
@@ -74,13 +74,13 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2023/3/27 5:25 PM UTC
+			2023/3/28 12:00 AM UTC
 		</td>
 		<td>
-			1
+			2
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/jpcc0/view-counter/raw/master/graph/585407563/small/year.png" height="20"> 2
+			<img alt="Response time graph" src="https://github.com/jpcc0/view-counter/raw/master/graph/585407563/small/year.png" height="20"> 4
 		</td>
 	</tr>
 	<tr>
@@ -90,13 +90,13 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2023/3/27 5:25 PM UTC
+			2023/3/28 12:00 AM UTC
 		</td>
 		<td>
-			4
+			5
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/jpcc0/view-counter/raw/master/graph/584494623/small/year.png" height="20"> 10
+			<img alt="Response time graph" src="https://github.com/jpcc0/view-counter/raw/master/graph/584494623/small/year.png" height="20"> 14
 		</td>
 	</tr>
 	<tr>
@@ -106,18 +106,18 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2023/3/27 5:25 PM UTC
+			2023/3/28 12:00 AM UTC
 		</td>
 		<td>
-			1
+			2
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/jpcc0/view-counter/raw/master/graph/563691934/small/year.png" height="20"> 1
+			<img alt="Response time graph" src="https://github.com/jpcc0/view-counter/raw/master/graph/563691934/small/year.png" height="20"> 2
 		</td>
 	</tr>
 </table>
 
-<small><i>Last updated on 2023/3/29 6:18 PM UTC</i></small>
+<small><i>Last updated on 2023/3/30 12:39 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
